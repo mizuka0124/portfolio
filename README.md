@@ -30,7 +30,7 @@ udemyの無料unityチュートリアル動画
 
 https://www.udemy.com/course/unity-chan-tutorial-01/
 
-を利用みて作ったものに様々な機能を追加したもの
+をみて作ったものに様々な機能を追加したもの
 
 
 
