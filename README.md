@@ -1,33 +1,5 @@
 # Portfolio
 
-### Yubisuma
-androidstudioでJavaを使用して作った指スマゲーム
-
-参加人数を決め、自分が親の時は合計数を予測し手を出す。
-
-両手の親指を立てるか立てないかで0か1か2を自分の手として出す
-
-親の予測数がプレイヤー全員の手の合計と合致した場合親の片手を引く
-
-両方の手がなくなった人の勝ち
-
-一人が勝てばゲームは終わり
-
-
-
-
-
-### UnityChanBallRoll-master
-unityでC#を使用して作った玉乗りゲーム
-
-udemyの無料unityチュートリアル動画
-
-https://www.udemy.com/course/unity-chan-tutorial-01/
-
-を利用みて作ったものに様々な機能を追加したもの
-
-
-
 
 ### ARFoundation
 unityのARFoundationでC#を使用して作ったARアプリ
@@ -48,4 +20,30 @@ unityのARFoundationでC#を使用して作ったARアプリ
 
 
 線描がモードで空間に線をかける
+
+
+
+### UnityChanBallRoll-master
+unityでC#を使用して作った玉乗りゲーム
+
+udemyの無料unityチュートリアル動画
+
+https://www.udemy.com/course/unity-chan-tutorial-01/
+
+を利用みて作ったものに様々な機能を追加したもの
+
+
+
+### Yubisuma
+androidstudioでJavaを使用して作った指スマゲーム
+
+参加人数を決め、自分が親の時は合計数を予測し手を出す。
+
+両手の親指を立てるか立てないかで0か1か2を自分の手として出す
+
+親の予測数がプレイヤー全員の手の合計と合致した場合親の片手を引く
+
+両方の手がなくなった人の勝ち
+
+一人が勝てばゲームは終わり
 
