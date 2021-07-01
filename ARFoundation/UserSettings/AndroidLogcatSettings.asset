@@ -1,0 +1,107 @@
+{
+    "m_SelectedDeviceId": "943AY0JSEH",
+    "m_SelectedPackage": {
+        "deviceId": "943AY0JSEH",
+        "name": "com.DefaultCompany.ARFoundation",
+        "processId": 21743,
+        "exited": false
+    },
+    "m_SelectedPriority": 1,
+    "m_KnownPackagesForSerialization": [
+        {
+            "deviceId": "943AY0JSEH",
+            "name": "com.DefaultCompany.ARFoundation",
+            "processId": 13051,
+            "exited": true
+        },
+        {
+            "deviceId": "943AY0JSEH",
+            "name": "com.DefaultCompany.ARFoundation",
+            "processId": 15380,
+            "exited": true
+        },
+        {
+            "deviceId": "943AY0JSEH",
+            "name": "com.DefaultCompany.ARFoundation",
+            "processId": 18634,
+            "exited": true
+        },
+        {
+            "deviceId": "943AY0JSEH",
+            "name": "com.DefaultCompany.ARFoundation",
+            "processId": 20621,
+            "exited": true
+        },
+        {
+            "deviceId": "943AY0JSEH",
+            "name": "com.google.android.apps.nexuslauncher",
+            "processId": 3259,
+            "exited": false
+        },
+        {
+            "deviceId": "943AY0JSEH",
+            "name": "com.DefaultCompany.ARFoundation",
+            "processId": 21400,
+            "exited": true
+        },
+        {
+            "deviceId": "943AY0JSEH",
+            "name": "com.DefaultCompany.ARFoundation",
+            "processId": 21743,
+            "exited": false
+        }
+    ],
+    "m_Tags": {
+        "m_Entries": [
+            {
+                "m_Name": "Filter by all listed tags",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "No Filter",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Tag Control...",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Unity",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "CRASH",
+                "m_Selected": false
+            }
+        ]
+    },
+    "m_MemoryViewerState": {
+        "MemoryWindowHeight": 300.0,
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "MemoryGroup": 2,
+        "Behavior": 0
+    },
+    "m_Filter": "テスト",
+    "m_FilterIsRegularExpression": true,
+    "m_SymbolPaths": []
+}
